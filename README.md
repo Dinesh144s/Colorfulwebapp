@@ -48,8 +48,8 @@ colorful-webapp/
    cd colorful-webapp
 ```
 2. Run this command to build:-
-   ```bash
-mvn clean install
+    ```bash
+    mvn clean install
 ```
 3.This will creates:-
 ```bash
