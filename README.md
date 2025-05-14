@@ -15,6 +15,7 @@ Before you begin, make sure you have the following installed:
 ---
 
 ## 📁 Project Structure
+```bash
 colorful-webapp/
 ├── pom.xml
 ├── src
@@ -35,6 +36,7 @@ colorful-webapp/
 │   ├── colorful-webapp.war
 │   └── maven-archiver
 │       └── pom.properties
+```
 
 ---
 
