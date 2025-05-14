@@ -47,7 +47,7 @@ colorful-webapp/
    git clone https://github.com/yourusername/colorful-webapp.git
    cd colorful-webapp
 ```
-2. Run this command to build:
+2.Run this command to build:
     ```bash
     mvn clean install
 ```
