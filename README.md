@@ -16,7 +16,7 @@ Before you begin, make sure you have the following installed:
 
 ## 📁 Project Structure
 
-.
+---.
 ├── pom.xml
 ├── src
 │   └── main
@@ -37,7 +37,7 @@ Before you begin, make sure you have the following installed:
     └── maven-archiver
         └── pom.properties
 
-
+---
 ---
 
 ## ⚙️ How to Build the Project
