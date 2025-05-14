@@ -48,14 +48,19 @@ colorful-webapp/
    cd colorful-webapp
 
 Run this command to build:-
-  -->mvn clean install
+```bash
+mvn clean install
 This will creates:-
-  -->target/colorful-webapp.war
+```bash
+target/colorful-webapp.war
 
 Deploy the WAR File to Apache Tomcat
 Copy the WAR to your Tomcat webapps/ directory:
+```bash
 sudo cp target/colorful-webapp.war  ~/apache-tomcat-10.1.41/webapps/
 Restart Tomcat:
+```bash
 sudo systemctl restart tomcat
 Access it at:
+```bash
 http://<your-server-ip>:8080/colorful-webapp
