@@ -47,17 +47,17 @@ colorful-webapp/
    git clone https://github.com/yourusername/colorful-webapp.git
    cd colorful-webapp
 ```
-Run this command to build:-
-```bash
+2. Run this command to build:-
+   ```bash
 mvn clean install
 ```
-This will creates:-
+3.This will creates:-
 ```bash
 target/colorful-webapp.war
 ```
-Deploy the WAR File to Apache Tomcat
-Copy the WAR to your Tomcat webapps/ directory:
-```bash
+4.Deploy the WAR File to Apache Tomcat
+  Copy the WAR to your Tomcat webapps/ directory:
+  ```bash
 sudo cp target/colorful-webapp.war  ~/apache-tomcat-10.1.41/webapps/
 ```
 Restart Tomcat:
