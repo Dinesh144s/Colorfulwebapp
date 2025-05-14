@@ -16,28 +16,27 @@ Before you begin, make sure you have the following installed:
 
 ## 📁 Project Structure
 
----.
+colorful-webapp/
 ├── pom.xml
 ├── src
-│   └── main
-│       ├── resources
-│       └── webapp
-│           ├── WEB-INF
-│           │   └── web.xml
-│           └── index.jsp
-└── target
-    ├── classes
-    ├── colorful-webapp
-    │   ├── META-INF
-    │   ├── WEB-INF
-    │   │   ├── classes
-    │   │   └── web.xml
-    │   └── index.jsp
-    ├── colorful-webapp.war
-    └── maven-archiver
-        └── pom.properties
+│   └── main
+│       ├── resources
+│       └── webapp
+│           ├── WEB-INF
+│           │   └── web.xml
+│           └── index.jsp
+├── target
+│   ├── classes
+│   ├── colorful-webapp
+│   │   ├── META-INF
+│   │   ├── WEB-INF
+│   │   │   ├── classes
+│   │   │   └── web.xml
+│   │   └── index.jsp
+│   ├── colorful-webapp.war
+│   └── maven-archiver
+│       └── pom.properties
 
----
 ---
 
 ## ⚙️ How to Build the Project
