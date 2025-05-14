@@ -15,7 +15,6 @@ Before you begin, make sure you have the following installed:
 ---
 
 ## 📁 Project Structure
-
 colorful-webapp/
 ├── pom.xml
 ├── src
